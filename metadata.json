@@ -1,0 +1,6 @@
+{
+  "name": "VoiceFlow AI",
+  "description": "100% offline, API-free on-device AI voice assistant with local STT, Indian language detection, NLLB translation, llama.cpp text rewriting, and floating system overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
